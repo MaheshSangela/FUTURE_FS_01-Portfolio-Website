@@ -32,7 +32,7 @@ const Projects = [
     tech: ["React", "Tailwind"],
     link: "https://github.com/yourusername/portfolio",
     img: Portfolio,
-    // demo: "https://google.com",
+    demo: "https://about-mahesh.netlify.app/",
   },
 
   // 4
