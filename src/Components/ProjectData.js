@@ -51,7 +51,7 @@ const Projects = [
     tech: ["React", "Tailwind"],
     link: "https://github.com/MaheshSangela/Shopping_E-commerce_site.git",
     img: Shopping,
-    // demo: "https://google.com",
+    demo: "https://shop24-7.netlify.app/,
   },
   // 6
   {
